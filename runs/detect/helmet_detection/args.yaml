@@ -13,7 +13,7 @@ cache: false
 device: '0'
 workers: 2
 project: null
-name: helmet_detectionV42
+name: helmet_detection2
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -105,4 +105,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\surya\Downloads\Helmet Detector\runs\detect\helmet_detectionV42
+save_dir: C:\Users\surya\Documents\Helmet Detector\runs\detect\helmet_detection2
